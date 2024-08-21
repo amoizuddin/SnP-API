@@ -1,14 +1,16 @@
-# Salt and Pepper
-A Recipe Book Application
+# Salt and Pepper API
+Backend API for the Salt n Pepper Recipe Book Application
+
 
 ## Purpose
-
+TODO: CREATE  PURPOSE STATEMENT FOR API
 Most recipe book solutions online kinda suck. They're either paid applications which are ugly, full of annoying ads, limit functionality behind paywalls, and aren't good enough to meet the cut.
 
 I want to build an application that is simple and easy to use, beautiful, and effective.
 
 ## Requirements
-
+TODO: DEFINE MVP REQUIREMENTS FOR API
+TODO: DEFINE OVERALL REQUIREMENTS FOR API
 - Users must be able to store recipes in a recipe card
     - A recipe card must have an ingredients portion which can be **scaled up and down** depending on the servings
     - The units the ingredients must be able to be converted
@@ -24,7 +26,7 @@ MVP:
 - 
 
 ## Techstack
-
+TODO: DEFINE SYSTEM DESIGN FOR API
 ### Frontend 
 * Next.js
 ### Backend:
